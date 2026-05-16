@@ -417,6 +417,7 @@ nav .part1 {
   background-color: none;
   overflow: hidden;
   display: flex;
+  gap: 90px;
   
 }
 .inner{
